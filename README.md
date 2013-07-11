@@ -4,7 +4,7 @@ freebase-ingest
 Scripts for loading the Freebase RDF Dump into a triple store.
 
 Someone with the Apache Foundation, possibly Andrew Franklin Seaborne,
-create a Perl script and some notes on loading a Freebase dump into
+created a Perl script and some notes on loading a Freebase dump into
 a triple store here:
 
 http://people.apache.org/~andy/Freebase20121223/
