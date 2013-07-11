@@ -17,6 +17,6 @@ first.
 License
 =======
 
-The original files did not come with a license.  We are distributing
-our changes under the
+The original files did not come with a license or copyright notice.
+Changes made by Delta Mobile Systems, Inc. are distributed under the
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
